@@ -8,8 +8,7 @@ Historia Raptors
 
 QB
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-https://www.youtube.com/watch?v=xvJt7qPCHI0&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D
+First Down Trainig [Movimientos](https://www.youtube.com/watch?v=xvJt7qPCHI0&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D).
 
 https://www.youtube.com/shorts/AQADlg8qsXc
 
