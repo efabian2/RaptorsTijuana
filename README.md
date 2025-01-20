@@ -1,5 +1,7 @@
 # **Bienvenidos a la Pagina Oficial del Equipo de Flag Raptors Tijuana!**
 
+![Raptors Logo!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
 Historia Raptors
 
 ### Menu Principal
