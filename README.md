@@ -1,15 +1,14 @@
-# RaptorsTijuana
-
-# **### ## # Welcome to the RaptorsTijuana wiki!**
+# **Bienvenidos a la Pagina Oficial del Equipo de Flag Raptors Tijuana!**
 
 Historia Raptors
 
-## Menu Principal
+### Menu Principal
 
 ## 1. Ejercicios En Casa
 
 QB
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 https://www.youtube.com/watch?v=xvJt7qPCHI0&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D
 
 https://www.youtube.com/shorts/AQADlg8qsXc
