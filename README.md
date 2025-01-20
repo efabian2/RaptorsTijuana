@@ -12,8 +12,8 @@ First Down Trainnig [Movimientos](https://www.youtube.com/watch?v=xvJt7qPCHI0&pp
 
 First Down Trainnig [Shuffle, Double Drift ](https://www.youtube.com/shorts/AQADlg8qsXc).
 
+First Down Trainnig [Tirar Mas Duro ](https://www.youtube.com/watch?v=1x6_UuJzVlY&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D)
 
-https://www.youtube.com/watch?v=1x6_UuJzVlY&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D
 
 WR
 
