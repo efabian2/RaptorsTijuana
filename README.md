@@ -1,6 +1,6 @@
 # **Bienvenidos a la Pagina Oficial del Equipo de Flag Raptors Tijuana!**
 
-<p align="center">  
+<p align="center">
 ![Raptors Logo!](/Raptors-Logo-Old.png "Raptors Logo")
 </p>
 
