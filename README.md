@@ -23,9 +23,9 @@ First Down Trainnig [Tirar Mas Duro ](https://www.youtube.com/watch?v=1x6_UuJzVl
 
 WR
 
-https://www.youtube.com/watch?v=I-sVC_zV_Uw&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D
+First Down Trainnig [Seguimiento](https://www.youtube.com/watch?v=I-sVC_zV_Uw&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D)
 
-https://www.youtube.com/shorts/PLKLtLMv9Fw
+First Down Trainnig [Fuerza de Agarre](https://www.youtube.com/shorts/PLKLtLMv9Fw)
 
 
 Drills agarre
