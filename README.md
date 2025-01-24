@@ -8,7 +8,7 @@
 
 # Tabla de contenido
 
-1. [Historia Raptors](#Historia Raptors)
+1. [Historia Raptors](#Historia-Raptors)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
