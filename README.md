@@ -6,7 +6,15 @@
 
 </p>
 
-Historia Raptors
+### Historia Raptors
+
+El equipo Raptors Flag Football nacio un diciembre de 2022 con la visión de crear un equipo competitivo y unido, enfocado en disfrutar y crecer dentro de este emocionante deporte. Desde su fundación, el equipo ha contado con categorías femenil y mixto, lo que ha permitido integrar a jugadores apasionados de todas las edades y niveles.
+
+En su primer año, los Raptors demostraron su compromiso participando en importantes torneos como Flag4All, Spring Bowl y Halloween Bowl, enfrentando a equipos de alto nivel y dejando huella con su esfuerzo y espíritu deportivo. Además, se unieron a la Liga de Flag de Tijuana, donde siguen consolidándose.
+
+Con trabajo duro, entrenamientos constantes y un fuerte sentido de comunidad, los Raptors continúan escribiendo su historia, siempre enfocados en la mejora continua, los valores de equipo y el amor por el flag football. 🦖🏈
+
+
 
 ### Menu Principal
 
