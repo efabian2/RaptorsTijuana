@@ -69,7 +69,7 @@ First Down Trainnig [Agilidad](https://www.youtube.com/watch?v=BFSOf8vuO6M)
 
 ### Defensivas
 
-#### Personal. 
+#### Personal o Cover 0. 
 
 Durante la cobertura hombre a hombre, o “cobertura 0”, cada jugador defensivo se enfrenta a un miembro ofensivo del equipo contrario. La defensa tiene un único trabajo: proteger al jugador con el que se enfrenta y evitar que reciba un pase. 
 
@@ -81,11 +81,7 @@ Defensiva Personal [Personal](https://youtu.be/v1qmvGK5fgQ)
 
 ![Personal!](/Personal.png)
 
-#### Zona.
-
-Zona (Perdón por el audio, era mi primer video, jeje) 
-
- 
+#### Zona o Cover 2.
 
 La formación defensiva de cobertura de zona con un único Rusher designado. Dos defensores se alinean hacia el exterior del campo, aproximadamente a cinco yardas de la línea de golpeo. Están a cargo de proteger la zona baja del campo (Su zona), asegurándose de que su línea lateral esté cubierta y que nadie se escape para atraparlos.  
 
@@ -94,6 +90,8 @@ Los otros dos jugadores protegen el interior del campo en su campo respectivo. C
 El último jugador defensivo es un Rusher. En el momento del centro, el Rusher cruza la línea de golpeo en un intento de quitar la bandera del mariscal de campo para pérdida de yardas. 
 
 Defensiva Zona [Personal](https://www.youtube.com/watch?v=lIo-apYthYA)
+
+![Zona o Cover 2!](/Zona.png)
 
 #### Test1
 
