@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  ![Raptors Logo!](/Raptors-Logo-Old.png)
+  ![Raptors Logo](/Raptors-Logo-Old.png)
 
 </p>
 
@@ -67,9 +67,9 @@ First Down Trainnig [Velocidad](https://www.youtube.com/watch?v=M6yg586OC_Y&t=10
 
 First Down Trainnig [Agilidad](https://www.youtube.com/watch?v=BFSOf8vuO6M)
 
-#### Defensivas
+### Defensivas
 
-Personal. 
+#### Personal. 
 
 Durante la cobertura hombre a hombre, o “cobertura 0”, cada jugador defensivo se enfrenta a un miembro ofensivo del equipo contrario. La defensa tiene un único trabajo: proteger al jugador con el que se enfrenta y evitar que reciba un pase. 
 
