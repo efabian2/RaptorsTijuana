@@ -89,7 +89,7 @@ Los otros dos jugadores protegen el interior del campo en su campo respectivo. C
 
 El último jugador defensivo es un Rusher. En el momento del centro, el Rusher cruza la línea de golpeo en un intento de quitar la bandera del mariscal de campo para pérdida de yardas. 
 
-Defensiva Zona [Personal](https://www.youtube.com/watch?v=lIo-apYthYA)
+Defensiva Zona [Zona o Cover 2](https://www.youtube.com/watch?v=lIo-apYthYA)
 
 ![Zona o Cover 2!](/Zona.png)
 
