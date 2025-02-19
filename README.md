@@ -9,8 +9,8 @@
 # Tabla de contenido
 
 1. [Historia Raptors](#Historia-Raptors)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. [Ejercicios en Casa](#Ejercicios-En-Casa)
+3. [Defensivas](#Defensivas)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
@@ -66,6 +66,18 @@ First Down Trainnig [Velocidad](https://www.youtube.com/watch?v=M6yg586OC_Y&t=10
 #### Agilidad
 
 First Down Trainnig [Agilidad](https://www.youtube.com/watch?v=BFSOf8vuO6M)
+
+#### Defensivas
+
+Personal. 
+
+Durante la cobertura hombre a hombre, o “cobertura 0”, cada jugador defensivo se enfrenta a un miembro ofensivo del equipo contrario. La defensa tiene un único trabajo: proteger al jugador con el que se enfrenta y evitar que reciba un pase. 
+
+Para lograr esto mejor, cuatro de los defensores se alinean en la línea de golpeo frente a su jugador designado, lo que les permite adaptarse rápidamente al movimiento de su jugador objetivo al comienzo de la jugada. 
+
+El único jugador que no está en la línea de golpeo es el rusher, que se encuentra siete yardas atrás. Al Hike, es responsabilidad del rusher llegar hasta el mariscal de campo y quitarle las banderas antes de que pueda lanzar el balón o completar una jugada. 
+
+Defensiva Personal [Personal](https://youtu.be/v1qmvGK5fgQ)
 
 
 #### Test1
