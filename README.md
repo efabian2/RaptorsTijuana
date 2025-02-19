@@ -81,6 +81,19 @@ Defensiva Personal [Personal](https://youtu.be/v1qmvGK5fgQ)
 
 ![Personal!](/Personal.png)
 
+#### Zona.
+
+Zona (Perdón por el audio, era mi primer video, jeje) 
+
+ 
+
+La formación defensiva de cobertura de zona con un único Rusher designado. Dos defensores se alinean hacia el exterior del campo, aproximadamente a cinco yardas de la línea de golpeo. Están a cargo de proteger la zona baja del campo (Su zona), asegurándose de que su línea lateral esté cubierta y que nadie se escape para atraparlos.  
+
+Los otros dos jugadores protegen el interior del campo en su campo respectivo. Comenzando en la línea de 10 yardas, se mueven hacia atrás al comienzo de la jugada para protegerse contra cualquier lanzamiento profundo que genere grandes yardas. Estos jugadores pueden denominarse profundos en esta configuración. 
+
+El último jugador defensivo es un Rusher. En el momento del centro, el Rusher cruza la línea de golpeo en un intento de quitar la bandera del mariscal de campo para pérdida de yardas. 
+
+Defensiva Zona [Personal](https://www.youtube.com/watch?v=lIo-apYthYA)
 
 #### Test1
 
