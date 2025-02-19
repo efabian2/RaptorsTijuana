@@ -79,7 +79,7 @@ El único jugador que no está en la línea de golpeo es el rusher, que se encue
 
 Defensiva Personal [Personal](https://youtu.be/v1qmvGK5fgQ)
 
-![Personal!](/personal.png)
+![Personal!](/Personal.png)
 
 
 #### Test1
