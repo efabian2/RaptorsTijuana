@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  ![Raptors Logo!](/Raptors-Logo-Old.png "Raptors Logo")
+  ![Raptors Logo!](/Raptors-Logo-Old.png)
 
 </p>
 
