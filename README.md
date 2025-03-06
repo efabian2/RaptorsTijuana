@@ -10,8 +10,8 @@
 
 1. [Historia Raptors](#historia-raptors)
 2. [Ejercicios en Casa](#ejercicios-en-casa)
-3. [Defensivas](#Defensivas)
-4. [Terapias](#Terapias)
+3. [Defensivas](#defensivas)
+4. [Terapias](#terapias)
 
 
 
