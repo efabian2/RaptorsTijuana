@@ -158,8 +158,39 @@ Cuando un receptor se mueve para recibir un doble pase, nuestra defensa debe rea
 
 ​Defensiva Contra El Doble Pase [Doble Pase](https://youtu.be/21lFbZEaVWc)
 
-​
+​#### Defensa Contra La Carrera
 
+Cuando un receptor se mueve al Lado del QB para correr o aparentar correr la pelota, nuestra defensa debe reaccionar rápido y con orden. Aquí te explico qué hacer si eres el rusher, el linebacker, el safety o el corner:​
+
+📌 Si eres el rusher:​
+
+    🔥 Entra con máxima velocidad como siempre, pero tu objetivo cambia.​
+
+    Si el corredor está de tu lado, vas sobre el QB a menos que veas algún tipo de play action.​
+
+    Si el corredor esta del lado contrario vas sobre el corredor a menos que sea algún tipo de play action.​
+
+
+📌 Si eres el linebacker:​
+
+    👀 Mucha comunicación con tu rusher las jugadas de carrera se desarrollaran rápido.​
+
+    Si el rusher va por el QB, tú atacas al otro corredor.​
+
+    Si el rusher se queda con el corredor, tú entras a presionar al QB.​
+
+
+📌 Si eres el Safety o Corner:​
+
+    Mantener la cobertura personal​
+
+    Estar atento a los pases, engaños y a las corridas, esta defensiva se presta mucho para los pases largos o desesperados y es allí donde se puede interceptar​
+
+💡 Clave para la defensa:​
+🏃‍♂️ Velocidad y persecución → Necesitamos ser jugadores rápidos, agresivos y buenos para quitar banderas.​
+🤜 Lucha por el balón → Siempre atentos al engaños y reaccionar rápido, HABLANSE.​
+
+​​Defensiva Contra La Carrera [Carrera](https://youtu.be/7yQmjg56_j4)
 ​
 
 
