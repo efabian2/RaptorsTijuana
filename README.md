@@ -124,6 +124,44 @@ Así, la defensa se mantiene organizada y evitamos pases largos 💪🔥​
 
 Defensiva 31 [31](https://youtu.be/jcCwPdBOSxM)
 
+#### Defensa Contra el Doble pase​
+
+Cuando un receptor se mueve para recibir un doble pase, nuestra defensa debe reaccionar rápido y con orden. Aquí te explico qué hacer si eres el rusher, el linebacker, el safety o el corner:​
+
+📌 Si eres el rusher:​
+
+    🔥 Entra con máxima velocidad como siempre, pero tu objetivo cambia.​
+
+    Si el doble pase está de tu lado, te quedas con ese receptor y no vas por el QB.​
+
+    Si el doble pase está en el otro lado, sigues atacando al QB más cercano.​
+
+
+📌 Si eres el linebacker:​
+
+    👀 Sigue al rusher como un espejo.​
+
+    Si el rusher va por el QB, tú atacas al otro QB.​
+
+    Si el rusher se queda con el receptor del doble pase, tú entras a presionar al QB.​
+
+
+📌 Si eres el Safety o Corner:​
+
+    Mantener la cobertura personal​
+
+    Estar atento a los pases, esta defensiva se presta mucho para los pases largos o desesperados y es alli donde se puede interceptar​
+
+💡 Clave para la defensa:​
+🏃‍♂️ Velocidad y persecución → Necesitamos ser jugadores rápidos y agresivos.​
+🤜 Lucha por el balón → Siempre atentos para desviar o interceptar.​
+
+​Defensiva Contra El Doble Pase [Doble Pase](https://youtu.be/21lFbZEaVWc)
+
+​
+
+​
+
 
 #### Terapias
 
