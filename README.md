@@ -11,7 +11,7 @@
 1. [Historia Raptors](#Historia-Raptors)
 2. [Ejercicios en Casa](#Ejercicios-En-Casa)
 3. [Defensivas](#Defensivas)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Terapias](#Terapias)
 
 
 
@@ -94,6 +94,17 @@ El último jugador defensivo es un Rusher. En el momento del centro, el Rusher c
 Defensiva Zona [Zona o Cover 2](https://www.youtube.com/watch?v=lIo-apYthYA)
 
 ![Zona o Cover 2!](/Zona.png)
+
+
+#### Terapias
+
+### Lesion Tobillo
+Ejercicios de rehabilitacion de tobillo esguince [esguince] (https://www.youtube.com/shorts/PLKLtLMv9Fw)
+
+
+
+
+
 
 #### Test1
 
