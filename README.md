@@ -150,7 +150,8 @@ Cuando un receptor se mueve para recibir un doble pase, nuestra defensa debe rea
 
 ​Defensiva Contra El Doble Pase [Doble Pase](https://youtu.be/21lFbZEaVWc)
 
-​#### Defensa Contra La Carrera
+​
+#### Defensa Contra La Carrera
 
 Cuando un receptor se mueve al Lado del QB para correr o aparentar correr la pelota, nuestra defensa debe reaccionar rápido y con orden. Aquí te explico qué hacer si eres el rusher, el linebacker, el safety o el corner:​
 
