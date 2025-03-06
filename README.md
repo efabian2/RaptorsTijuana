@@ -8,8 +8,8 @@
 
 # Tabla de contenido
 
-1. [Historia Raptors](#Historia-Raptors)
-2. [Ejercicios en Casa](#Ejercicios-En-Casa)
+1. [Historia Raptors](#historia-raptors)
+2. [Ejercicios en Casa](#ejercicios-en-casa)
 3. [Defensivas](#Defensivas)
 4. [Terapias](#Terapias)
 
