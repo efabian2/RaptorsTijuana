@@ -14,14 +14,6 @@
 4. [Terapias](#terapias)
 
 
-
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
-
-
-
-
 ### Historia Raptors
 
 El equipo Raptors Flag Football nacio un diciembre de 2022 con la visión de crear un equipo competitivo y unido, enfocado en disfrutar y crecer dentro de este emocionante deporte. Desde su fundación, el equipo ha contado con categorías femenil y mixto, lo que ha permitido integrar a jugadores apasionados de todas las edades y niveles.
@@ -196,19 +188,12 @@ Cuando un receptor se mueve al Lado del QB para correr o aparentar correr la pel
 
 #### Terapias
 
-### Lesion Tobillo
+##### Lesion Tobillo
 Ejercicios de rehabilitacion de tobillo esguince [esguince](https://www.youtube.com/shorts/MdKZI6S0mE8)
 
 Ejercicios de rehabilitacion de tobillo esguince-2 [esguince](https://youtube.com/shorts/aoKUJGY-4rc?si=F86xta4znZsH3oQ-)
 
 
-
-
-#### Test1
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v=xvJt7qPCHI0&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D
-" target="_blank"><img src="http://img.youtube.com/vi/v=xvJt7qPCHI0&pp=ygUjZmlyc3QgZG93biB0cmFpbmluZyBpbiBob3VzZSBkcmlsbHM%3D/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
