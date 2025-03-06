@@ -95,6 +95,35 @@ Defensiva Zona [Zona o Cover 2](https://www.youtube.com/watch?v=lIo-apYthYA)
 
 ![Zona o Cover 2!](/Zona.png)
 
+#### Defensa 31
+
+Esta formación se usa cuando el equipo rival está lanzando pases largos y nuestros safetys tienen que cubrir demasiadas zonas al mismo tiempo, se busca Evitar que los safetys queden sobrecargados de trabajo y Tener un jugador listo para frenar pases cortos o intentos de correr.​
+
+📌 Si eres el rusher:​
+
+    🔥 Entra con máxima velocidad como siempre.​
+
+
+📌 Si eres el linebacker:​
+
+    👀 Para uno de los Line Backers su tarea es proteger la zona corta y media, está atento a cualquier pase corto o jugada terrestre (carrera).​
+
+    Para el Otro Linebacker, (jugador en el centro) se enfoca en proteger la zona media, a partir de 7 yardas, este Line Backer toma el lugar de un tercer safety​
+
+
+📌 Si eres el Safety o Corner:​
+
+    Protege tu zona asignada y evita que los receptores rivales te ganen en rutas largas.​
+    Mantén una buena comunicación con los otros safetys y apóyate en el linebacker para cerrar cualquier pase medio en el centro.​
+
+🏃‍♂️ Velocidad y persecución → Se usan jugadores rápidos y agresivos.​
+🤜 Lucha por el balón → Siempre atentos para desviar o interceptar.​
+📢 Comunicación → Asegúrate de hablar con tus compañeros para no dejar huecos en la defensa.​
+
+Así, la defensa se mantiene organizada y evitamos pases largos 💪🔥​
+
+Defensiva 31 [31](https://youtu.be/jcCwPdBOSxM)
+
 
 #### Terapias
 
