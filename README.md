@@ -99,7 +99,7 @@ Defensiva Zona [Zona o Cover 2](https://www.youtube.com/watch?v=lIo-apYthYA)
 #### Terapias
 
 ### Lesion Tobillo
-Ejercicios de rehabilitacion de tobillo esguince [esguince] (https://www.youtube.com/shorts/PLKLtLMv9Fw)
+Ejercicios de rehabilitacion de tobillo esguince [esguince](https://www.youtube.com/shorts/PLKLtLMv9Fw)
 
 
 
