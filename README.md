@@ -34,7 +34,7 @@ Con trabajo duro, entrenamientos constantes y un fuerte sentido de comunidad, lo
 
 ### Menu Principal
 
-## 1. Ejercicios En Casa
+## Ejercicios En Casa
 
 
 #### QB
